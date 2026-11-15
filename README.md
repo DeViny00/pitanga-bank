@@ -2,16 +2,16 @@
 >Pitanga Bank is a fictional digital bank API built with Java and Spring Boot. It is a simulation project for my portfolio, not a commercial product or real work experience.
 
 ## About
-Simulates a real bank app. Planned features:
-- Customers and authentication: Sign-up,Login,Profiles of client and operator.
-- Accounts: Opening of accounts, balance inquiry blocking, and closing.
-- Transfers: between internal accounts and simulate PIX.
-- Statement: paginated list with filter by period and type.
-- Limits and Anti-fraud: daily transfer limit and rules of block.
-- Audit log: Detailed register of who did what and when.
+Pitanga Bank simulates a real bank app. Planned features:
+- Customers and authentication: sign-up, login, profiles of customer and operator.
+- Accounts: opening, balance inquiry, blocking, and closing.
+- Transfers: between internal accounts plus a simulated PIX.
+- Statement: paginated list with filters by period and type.
+- Limits and anti-fraud: daily transfer limit and blocking rules.
+- Audit log: a record of who did what and when.
 
-## Tech stack and Environment
-- java(v21.0.12.1)
+## Tech stack and environment
+- Java(v21.0.12.1)
 - Git(v2.56.0)
 - Docker Compose(v5.5.1)
 - VSCodium (v1.140.06880)
