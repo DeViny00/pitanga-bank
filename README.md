@@ -11,7 +11,7 @@ Pitanga Bank simulates a real bank app. Planned features:
 - Audit log: a record of who did what and when.
 
 ## Tech stack and environment
-- Java(v21.0.12.1)
-- Git(v2.56.0)
-- Docker Compose(v5.5.1)
-- VSCodium (v1.140.06880)
+- Java 21.0.12.1
+- Git 2.56.0
+- Docker Compose 5.5.1
+- VSCodium 1.140.06880
