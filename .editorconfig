@@ -1,0 +1,15 @@
+#arquivo raiz de config
+root = true
+
+# Regras/pre-definições para todos os arquivos
+[*]
+charset = utf-8
+end_of_line = lf
+insert_final_newline = true
+indent_style = space
+indent_size = 4
+trim_trailing_whitespace = true
+
+#pre-definições especificas para YAML, JSON e Markdown
+[*.{yml,yaml,json,md}]
+indent_site = 2
